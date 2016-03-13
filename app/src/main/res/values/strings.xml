@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PeopleRegistration</string>
+    <string name="et_firstname_hint">First Name</string>
+    <string name="et_lastname_hint">Last Name</string>
+    <string name="et_email_hint">Email</string>
+    <string name="btn_add_text">Add</string>
+    <string name="tv_names_hint">NAME, Name</string>
+    <string name="tv_email_hint">email@example.com</string>
+</resources>
